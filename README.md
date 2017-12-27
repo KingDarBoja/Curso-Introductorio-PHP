@@ -17,3 +17,16 @@ PHP es capaz de hacer muchas cosas más, desde _"scripts"_ del lado del servidor
 ¡Por supuesto! En la programación existe gran variedad de lenguajes que han sido desarrollados para funcionar del lado del servidor a tráves de los denominados _frameworks_ (o entornos de trabajos). Un claro ejemplo es Python, el cual es un lenguaje de próposito general multiplataforma, enfocado al desarrollo científico y a una fácil legibilidad de código. Este puede ser utilizado como lenguaje de servidor a tráves de _frameworks_ como: _Django_ (el más popular de todos), _Flask_, _web2py_, _TurboGears_, [entre otros](https://wiki.python.org/moin/WebFrameworks).
 
 Si quieres conocer más sobre el top de los lenguajes para aprender en 2018, les dejo este artículo [Web Development 101: Top Web Development Languages to Learn in 2018](https://www.upwork.com/blog/2017/11/top-web-development-languages-2018/) (en inglés).
+
+## Lista de capitulos
+1. [Introducción a PHP](Capitulo1.md)
+2. [Condicionales - Control de Flujo: If/Else](Capitulo2.md)
+3. [Control de Flujo: Switch](Capitulo3.md)
+4. [Arrays (o Arreglos)](Capitulo4.md)
+5. [Ciclos For](Capitulo5.md)
+6. [Ciclos While y Do-While](Capitulo6.md)
+7. [Funciones en PHP, Parte 1](Capitulo7.md)
+8. [Funciones en PHP, Parte 2](Capitulo8.md)
+9. [Programación orientada a objetos, Parte 1](Capitulo9.md)
+10. [Programación orientada a objetos, Parte 2](Capitulo10.md)
+11. [Arrays (Arreglos) avanzados](Capitulo11.md)
