@@ -56,7 +56,7 @@ Por ejemplo, al utilizar `echo "¡Hola mundo!"` dentro de las etiquetas, aparece
 `@Solución`
 ```php
 <?php
-  echo Hola, ¡Estoy programando en PHP!
+  echo "Hola, ¡Estoy programando en PHP!"
 ?>
 ```
 
@@ -65,7 +65,7 @@ Por ejemplo, al utilizar `echo "¡Hola mundo!"` dentro de las etiquetas, aparece
 ```
 ```php * Aquí comienza el bloque de código
 <?php
-  echo Hola, ¡Estoy programando en PHP!
+  echo "Hola, ¡Estoy programando en PHP!"
 ?>
 ``` * Aquí termina el bloque de código
 ```
