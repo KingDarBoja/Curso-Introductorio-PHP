@@ -62,10 +62,12 @@ Por ejemplo, al utilizar `echo "¡Hola mundo!"` dentro de las etiquetas, aparece
 
 :heavy_exclamation_mark: **Nota:** Para habilitar el resaltado de código en php, se debe agregar _php_ justo despúes de las etiquetas de apertura de código así:
 
-```
-```php * Aquí comienza el bloque de código
+````md
+% Aquí comienza el bloque de código
+```php
 <?php
   echo "Hola, ¡Estoy programando en PHP!"
 ?>
-``` * Aquí termina el bloque de código
 ```
+% Aquí termina el bloque de código
+````
